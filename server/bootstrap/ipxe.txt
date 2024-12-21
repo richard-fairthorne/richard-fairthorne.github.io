@@ -3,7 +3,7 @@
 set STREAM stable
 set VERSION 41.20241122.3.0
 set INSTALLDEV /dev/sda
-set CONFIGURL https://example.com/config.ign
+set CONFIGURL https://richard-fairthorne.github.io/server/bootstrap/config.ign
 
 set BASEURL https://builds.coreos.fedoraproject.org/prod/streams/${STREAM}/builds/${VERSION}/x86_64
 
