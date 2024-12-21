@@ -27,3 +27,7 @@ foreach command [split $ipxe_content "\n"] {
 	}
     send "\n"
 }
+
+set timeout 600
+expect "iPXE> "
+puts "Done"
