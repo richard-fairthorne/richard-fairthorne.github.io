@@ -5,7 +5,7 @@
   "passwd": {
     "users": [
       {
-        "name": "core",
+        "name": "richard",
         "sshAuthorizedKeys": [
           "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0JBK+kuf8f+48fgf1bQZyLMkpjBojk/Fo6Dp+kskIN9geVwr/qxXjevEhZS/6vJgvdkcqhRRZuEmC3mASIve/KaE1j4g5zpHp9MCFgup6PCXvAt8cSeEC8QLOx69XDm6jV+Y9L/+ZqtLxTvjclkl0PSENelBiZ97Oj4tZTXE7Xoniig5il2HUW+POPz4s6cG0OHfjOucZ547Rub7AAMf/4wuLyRCq/CUrOJIhbZm3PpnRkg+fwVT9eQpEtXEmApYLkmTAzKkmnVMCHNkJ+xytncqYGpJDkhWqA0yd4PITaK0pP226QxgarqL5tAxCnRWOJBALemmkYSg1bYrPLC3D rich@Richards-MacBook-Pro.local"
         ]
